@@ -32,7 +32,7 @@ linkedin_username: rahulgandhi92
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/my_image.png
+about_profile_image: images/my_image.jpg
 about_content: | # this will include new lines to allow paragraphs
   A highly skilled and dedicated frontend engineer with over <mark>10 years</mark> of professional experience working in startups, small scale or large scale companies.
   
