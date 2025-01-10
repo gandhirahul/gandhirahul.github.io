@@ -50,7 +50,7 @@ content:
         title: Bumble
         sub_title: Lead Frontend Engineer
         caption: Feb 2018 - Present
-        quote: "Led and contributed to diverse projects over 6 years at Bumble, London (UK), showcasing technical expertise and fostering teamwork for achieving exceptional results."
+        quote: "Led and contributed to diverse projects over 7 years at Bumble, London (UK), showcasing technical expertise and fostering teamwork for achieving exceptional results."
         skills: "Javascript, ReactJs, jQuery, CSS, SASS, Material-UI, Webpack, CSSinJS, Stencil.js, "
         list:
           - text: Led projects and teams overseeing the entire software lifecycle from requirement gathering to deployment.
@@ -84,7 +84,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: USICT, GGSIPU
         sub_title: B.Tech in Information Technology
         caption: 2010 - 2014
