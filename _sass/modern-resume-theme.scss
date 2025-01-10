@@ -74,7 +74,7 @@
 
     p {
       margin-bottom: 3px;
-      font-size: 1.6rem;
+      font-size: 1.75rem;
       text-align: inherit;
       font-weight: 300;
 
@@ -196,16 +196,16 @@ p.quote {
 }
 
 p.skills {
-  font-size: 1.5rem;
+  font-size: 1.70rem;
   font-style: unset;
   padding: 0rem 1rem;
   text-align: left;
-  color: #2e7d32;
-  font-weight: 500;
+  color: #3c763d;
+  font-weight: 600;
 }
 
 table {
-  font-size: 1.6rem;
+  font-size: 1.75rem;
   tr {
     td:first-child {
       width: 15%;
@@ -214,9 +214,8 @@ table {
 }
 
 body {
-	background: linear-gradient(-45deg,  #f2f2f2, #eeeeee, #fff, #fafafa);
-	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+  background-image: linear-gradient(to left bottom, #ffffff, #f9f8fd, #f2f2fb, #ebebf9, #e3e5f7, #dbe4fa, #d1e4fc, #c6e4fd, #b6eafe, #abf0f7, #a9f4e9, #b4f6d6);
+	background-size: 100% 200%;
 	height: 100%;
 }
 
