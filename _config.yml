@@ -8,8 +8,10 @@ version: 2
 # Personal info
 name: Rahul Gandhi
 title: Lead Frontend Engineer
+description: "Frontend engineer with 10+ years building React apps at scale. Experienced in startups and global tech. Based in London."
 email: rahulgandhi38@gmail.com
 email_title: Email
+url: "https://gandhirahul.github.io/"
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
