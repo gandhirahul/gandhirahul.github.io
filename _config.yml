@@ -34,13 +34,12 @@ linkedin_username: rahulgandhi92
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my_image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A highly skilled and dedicated frontend engineer with over <mark>10 years</mark> of professional experience working in startups, small scale or large scale companies.
+  I'm a frontend engineer with <mark>10+ years</mark> of experience building scalable, user-focused web apps across startups and global tech companies. I've led projects from scratch, contributed to high-traffic platforms, and helped shape frontend architecture that balances performance, maintainability, and great UX. 
   
-  Recognized for expertise in <mark>JavaScript</mark> (particularly in ReactJS), with a proven track record of delivering high-quality code and optimizing user experiences. 
+  My main strength lies in <mark>JavaScript</mark> and <mark>React</mark>, whether it's designing reusable component systems, improving load times, or rolling out features quickly without compromising quality. I enjoy solving real product problems with clean, reliable code.
   
-  Demonstrates leadership qualities by effectively collaborating within cross-functional teams, guiding junior developers, and driving projects to successful outcomes
+  I've worked closely with cross-functional teams, mentored junior developers, and taken ownership of end-to-end delivery. I care deeply about craftsmanship, collaboration, and shipping things that matter.
 
-  Committed to delivering high-quality code, optimising user experiences, and collaborating effectively within cross-functional teams.
 
 content:
   - title: Experience
