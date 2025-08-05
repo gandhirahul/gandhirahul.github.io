@@ -8,8 +8,10 @@ version: 2
 # Personal info
 name: Rahul Gandhi
 title: Lead Frontend Engineer
+description: "Frontend engineer with 10+ years building React apps at scale. Experienced in startups and global tech. Based in London."
 email: rahulgandhi38@gmail.com
 email_title: Email
+url: "https://gandhirahul.github.io/"
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
@@ -34,13 +36,12 @@ linkedin_username: rahulgandhi92
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/my_image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  A highly skilled and dedicated frontend engineer with over <mark>10 years</mark> of professional experience working in startups, small scale or large scale companies.
+  I'm a frontend engineer with <mark>10+ years</mark> of experience building scalable, user-focused web apps across startups and global tech companies. I've led projects from scratch, contributed to high-traffic platforms, and helped shape frontend architecture that balances performance, maintainability, and great UX. 
   
-  Recognized for expertise in <mark>JavaScript</mark> (particularly in ReactJS), with a proven track record of delivering high-quality code and optimizing user experiences. 
+  My main strength lies in <mark>JavaScript</mark> and <mark>React</mark>, whether it's designing reusable component systems, improving load times, or rolling out features quickly without compromising quality. I enjoy solving real product problems with clean, reliable code.
   
-  Demonstrates leadership qualities by effectively collaborating within cross-functional teams, guiding junior developers, and driving projects to successful outcomes
+  I've worked closely with cross-functional teams, mentored junior developers, and taken ownership of end-to-end delivery. I care deeply about craftsmanship, collaboration, and shipping things that matter.
 
-  Committed to delivering high-quality code, optimising user experiences, and collaborating effectively within cross-functional teams.
 
 content:
   - title: Experience
@@ -50,36 +51,41 @@ content:
         title: Bumble
         sub_title: Lead Frontend Engineer
         caption: Feb 2018 - Present
-        quote: "Led and contributed to diverse projects over 7 years at Bumble, London (UK), showcasing technical expertise and fostering teamwork for achieving exceptional results."
-        skills: "Javascript, ReactJs, jQuery, CSS, SASS, Material-UI, Webpack, CSSinJS, Stencil.js, "
+        quote: "Led critical frontend efforts at scale across Bumble and Badoo, shipping fast, accessible experiences to millions of users while mentoring teams and improving internal tooling."
+        skills: "React, JavaScript, TypeScript, Design Systems, Micro-frontends, Performance Optimization, Accessibility, Webpack, CI/CD, Internationalization, Mentorship, Cross-team Collaboration"
         list:
-          - text: Led projects and teams overseeing the entire software lifecycle from requirement gathering to deployment.
-          - text: Worked with client facing apps (Bumble web, Badoo web) and developed several internal tools.
-          - text: Collaborated with cross-functional teams to gather requirements, design, and implement features aligned with project specifications.
-          - text: Optimised application performance through code refactoring, performance tuning.
-          - text: Conducted thorough code reviews, offering constructive feedback, and mentored junior developers to foster team growth.
-          - text: Proactively engaged in Bumble's hiring team, playing a pivotal role in conducting interviews and effectively selecting top-tier candidates.
+          - text: Led multiple end-to-end web projects, improving page load time by up to 40% through performance optimizations and refactoring.
+          - text: Directed teams (upto 3-4 engineers) and ensured timely delivery of scalable, user-friendly features used by millions.
+          - text: Spearheaded internal tools that reduced manual operational tasks by 30%, improving team efficiency.
+          - text: Mentored junior engineers and created onboarding guides, cutting ramp-up time by 25%.
+          - text: Played a key role in hiring, interviewed 50+ candidates and helped build a high-performing frontend team.
+          - text: Championed accessibility and internationalization initiatives, enabling consistent UX across languages and global markets.
+          - text: Collaborated closely with product, design, and backend to drive shared ownership and deliver high-impact features.
 
       - layout: left
         title: Roposo
         sub_title: Frontend Engineer
         caption: Dec 2015 - Jan 2018
-        quote: "Worked at a small startup company in India, gaining valuable exposure to a diverse range of technologies and projects."
-        skills: "Javascript, ReactJS, Angular (v1), Node JS, Express JS, MongoDB, CSS, LESS, HTML, jQuery"
+        quote: "Worked in a fast-paced startup environment, building full-stack web apps and internal tools using React and the MERN stack, while contributing to core user-facing products."
+        skills: "React, JavaScript, MERN Stack, Node.js, MongoDB, Express.js, Material UI, Responsive Design, Full-Stack Development, Rapid Prototyping, Product Iteration"
         list:
-          - text: "Roposo Desktop & Mobile Web application: Contributed to the development of a greenfield responsive web application using ReactJS."
-          - text: "Bloggers Tool: Acted as a full stack developer, utilising the MERN stack (MongoDB, Express.js, ReactJS, Node.js) for development."
-          - text: "Internal Tool: Developed an internal tool for user management, leveraging Material UI."
+          - text: Developed a responsive desktop and mobile web app from scratch using React, resulting in twice an increase in user engagement.
+          - text: Built a full-stack Blogger Tool using the MERN stack to support influencer content publishing, reducing campaign turnaround time by 50%.
+          - text: Designed and implemented a user management dashboard with Material UI, boosting internal workflow efficiency.
+          - text: Took full ownership of features, from frontend to backend and iterating quickly based on real user feedback and business needs.
+          - text: Gained exposure to a wide range of responsibilities in a lean team, accelerating development speed and product delivery.
 
       - layout: left
         title: Tata Consultancy Services
         sub_title: Frontend Developer
         caption: Nov 2014 - Nov 2015
-        quote: "Worked at a large scale MNC company in India, gaining valuable exposure to frontend development."
-        skills: "Javascript, jQuery, Angular (v1), CSS, HTML"
+        quote: "Kickstarted my career working on enterprise web apps, focusing on frontend development with jQuery and AngularJS in a large-scale, client-facing environment."
+        skills: "jQuery, AngularJS, JavaScript, HTML, CSS, Enterprise Applications, Cross-Browser Compatibility, Team Collaboration"
         list:
-          - text: Responsible for developing robust frontend applications working on jQuery based tech-stack, ensuring high-quality and user-friendly interfaces.
-          - text: Played a key role in successfully migrating application from jQuery to AngularJS, enhancing performance and maintainability.
+          - text: Developed and maintained frontend features for enterprise applications using jQuery, ensuring usability and cross-browser consistency.
+          - text: Played a key role in migrating legacy jQuery codebases to AngularJS, improving maintainability and reducing bug count by 40%.
+          - text: Collaborated with global delivery teams and gained experience working within large, structured engineering processes.
+
 
   - title: Education
     layout: list
@@ -89,28 +95,29 @@ content:
         sub_title: B.Tech in Information Technology
         caption: 2010 - 2014
         description: |
-          Achieved B.Tech (Bachelor of Technology) degree with a GPA of <mark>75.18</mark> (Equivalent to: First-Class Honours) from University School of Information, Communication and Technology (USICT) main campus of (GGSIPU) Guru Gobind Singh Indraprastha University, New Delhi, India.
-        sub_description_heading: "Internship: RUBUS LABS Blackberry India"
+          University School of Information, Communication & Technology (USICT), GGSIPU — New Delhi, India
+          Graduated 2014 · GPA: <mark>75.18%</mark> (First-Class Honours)
+        sub_description_heading: "Web Developer Intern — Rubus Labs (BlackBerry India)"
         list: 
           - text: Web Developer Intern
           - text: September 2013
-          - text: Developed a few web-based app for Blackberry10 OS, working with HTML5, CSS3, JavaScript, and jQuery.
+          - text: Built web-based apps for the BlackBerry 10 OS using HTML5, CSS3, JavaScript, and jQuery.
 
   - title: Certifications
     layout: list
     content:
       - layout: left
-        title: Front End Development Program
-        sub_title: Free Code Camp
+        title: Front End Development Certification
+        sub_title: FreeCodeCamp
         caption: Issued Dec 2016
         link: https://www.freecodecamp.org/certification/gandhirahul/legacy-front-end
         link_text: Certificate
-        quote: Completed Free Code Camp's rigorous Front End Development Program
+        quote: Completed FreeCodeCamp's rigorous Front End Development Certification
         list: 
           - text: Completed FE dev program representing approximately 300 hours of work.
-          - text: Acquired advanced proficiency in modern web development technologies and best practices.
-          - text: Demonstrated expertise in building responsive and accessible user interfaces, optimizing performance, and implementing industry-standard design patterns.
-          - text: Proven ability to mentor and coach junior developers, fostering a collaborative learning environment and accelerating team growth.
+          - text: Gained advanced proficiency in modern web development tools and best practices.
+          - text: Built responsive, accessible UIs with a focus on performance and maintainability.
+          - text: Applied industry-standard design patterns across projects.
 
   - title: Scholastic Achievements
     layout: text
@@ -123,15 +130,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      In my free time, I enjoy engaging in various activities that keep me active and intellectually stimulated. 
-      
-      I have a passion for playing table tennis and badminton. 
-      
-      Additionally, I love the tranquility and adventure of hiking and trekking, exploring nature's wonders and pushing my physical boundaries.
-    
-      I also prioritize my health and well-being, often spending time in the gym to maintain an active lifestyle and foster mental clarity. 
-      
-      When winding down, I immerse myself in self-help books, seeking personal growth and development, or delve into tech articles/videos to stay updated on the latest industry trends and advancements.
+      Outside of work, I like staying active and curious. I enjoy playing table tennis and badminton, and I often head out for hikes or treks to unwind and challenge myself physically.
+
+      Fitness is important to me, so I regularly hit the gym to keep both my body and mind sharp.
+
+      When it's time to slow down, I dig into self-help books for personal growth or explore tech articles and videos to stay on top of new trends and ideas in the industry.
 
 
 # Footer
